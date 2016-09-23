@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "ava-power-assert-external-macro-test-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
+}
